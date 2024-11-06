@@ -59,7 +59,3 @@ Guidelines for how others can contribute to this project, if applicable.
 
 ## License
 The open-source license under which this repository is shared (e.g., MIT License).
-
----
-
-This outline will help structure your README to make your project accessible and useful to others interested in SHACL. Let me know if you'd like more details on any section!
